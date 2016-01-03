@@ -12,15 +12,12 @@ public class test : MonoBehaviour {
         GameObject plane = GameObject.Find("Plane");
        Vector3 test = plane.GetComponent<Collider>().bounds.size;
        Debug.Log(test);
-        GameObject[] MyArr= new GameObject[10];
+        GameObject[] myArr= new GameObject[10];
 
         for(int i = 0 ; i<10; i++)
         {
-           MyArr[i] =(GameObject) Instantiate(SC,new Vector3(deltaPos+i*CubeSize,0,0),Quaternion.identity);
+           myArr[i] =(GameObject) Instantiate(SC,new Vector3(deltaPos+i*CubeSize,0,0),Quaternion.identity);
         }
-        
-       
-
        //GameObject testCube = GameObject.CreatePrimitive(PrimitiveType.Cube);
        //testCube.AddComponent<Rigidbody>();
        //testCube.GetComponent<Rigidbody>().useGravity = false;
@@ -28,10 +25,6 @@ public class test : MonoBehaviour {
        //testCube.transform.position = new Vector3(0, 0, 0);
        //test = testCube.GetComponent<Collider>().bounds.size;
        //Debug.Log(test);
-
-        
-
-        
 	}
 	
 	// Update is called once per frame

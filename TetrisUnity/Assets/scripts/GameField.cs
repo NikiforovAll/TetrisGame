@@ -15,7 +15,6 @@ namespace Tetris
         // protected SimpleCube[,] GameBoard;
         public T[,] GameBoard;
 
-
         public GameField(int height, int width)
         {
             this.Height = height;
@@ -25,7 +24,6 @@ namespace Tetris
             SpawnPointX = width / 2;
             SpawnPointY = 1;
             GameBoard = new T[width, height];
-
         }
 
         // return true if player scored a line
@@ -87,7 +85,7 @@ namespace Tetris
         {
             foreach (T sc in part.GetCubes)
             {
-                GameBoard[sc.getPosX, sc.getPosY] = sc;
+                GameBoard[sc.GetPosX, sc.GetPosY] = sc;
             }
         }
         // true - right 1 false - (-1) no err 0 
@@ -99,16 +97,16 @@ namespace Tetris
             {
                 try
                 {
-                    if (sc.getPosX > Width - 1)
+                    if (sc.GetPosX > Width - 1)
                     {
                         side = 1;
                     }
-                    else if (sc.getPosX < 0)
+                    else if (sc.GetPosX < 0)
                     {
                         side = -1;
                     }
 
-                    if (GameBoard[sc.getPosX, sc.getPosY] != null)
+                    if (GameBoard[sc.GetPosX, sc.GetPosY] != null)
                     {
                         return false;
                     }

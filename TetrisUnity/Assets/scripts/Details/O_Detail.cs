@@ -5,10 +5,10 @@
         
         public O_Detail (int X, int Y):base(X,Y)
         {
-            cubes = PartDefinitions.GetPartDefinition(PartDefinitions.Definition.O_Detail);
-            findCentralCube();
+            Cubes = PartDefinitions.GetPartDefinition(PartDefinitions.Definition.O_Detail);
+            FindCentralCube();
             // set central cube position as a center of a part 
-            this.SetPos(positionX, positionY);
+            this.SetPos(PositionX, PositionY);
         }
         public override void Rotate(bool direction)
         {

@@ -4,10 +4,10 @@
     {
         public J_Detail (int X, int Y):base(X,Y)
         {
-            cubes = PartDefinitions.GetPartDefinition(PartDefinitions.Definition.J_Detail);
-            findCentralCube();
+            Cubes = PartDefinitions.GetPartDefinition(PartDefinitions.Definition.J_Detail);
+            FindCentralCube();
             // set central cube position as a center of a part 
-            this.SetPos(positionX, positionY);
+            this.SetPos(PositionX, PositionY);
         }
     }
 }

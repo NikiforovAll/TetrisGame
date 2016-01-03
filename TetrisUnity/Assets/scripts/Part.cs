@@ -19,7 +19,7 @@
         {
             int i = 0;
             if (Cubes != null)
-                while (!Cubes[i++].isCentral) { }
+                while (!Cubes[i++].IsCentral) { }
             CentralCube = Cubes[--i];
         }
         protected void SetPos(int x, int y)
@@ -29,13 +29,7 @@
             this.PositionY = y;
             UpdatePos();
         }
-        public SimpleCube[] GetCubes
-        {
-            get
-            {
-                return Cubes;
-            }
-        }
+        public SimpleCube[] GetCubes => Cubes;
 
         public void MoveDown()
         {
@@ -70,9 +64,9 @@
         }
         private static void UpdatePos(SimpleCube simCubeInstance)
         {
-            int currPosX = simCubeInstance.getPosX;
-            int currPosY = simCubeInstance.getPosY;
-            SimpleCube[] arrConj = simCubeInstance.getConj;
+            int currPosX = simCubeInstance.GetPosX;
+            int currPosY = simCubeInstance.GetPosY;
+            SimpleCube[] arrConj = simCubeInstance.GetConj;
             for (int i = 0; i < 4; i++)
             {
                 if (arrConj[i] != null)

@@ -27,7 +27,7 @@ public class Controller : MonoBehaviour
         for (int i = 0; i < TmpArr.Length; i++)
         {
             //  Debug.Log(currPart.GetCubes[i].getPosX + "- X : Y - " + currPart.GetCubes[i].getPosY);
-            GameBoardUnity[CurrPart.GetCubes[i].getPosX, CurrPart.GetCubes[i].getPosY] =
+            GameBoardUnity[CurrPart.GetCubes[i].GetPosX, CurrPart.GetCubes[i].GetPosY] =
                 (GameObject)Instantiate(TmpArr[i]);
             // System.Threading.Thread.Sleep(5000);
         }
@@ -81,8 +81,8 @@ public class Controller : MonoBehaviour
     }
     public static void Translate(GameObject cube, SimpleCube p)
     {
-        cube.transform.position = new Vector3(-CubeSize / 2 + p.getPosX * CubeSize, 0,
-             -p.getPosY * CubeSize);
+        cube.transform.position = new Vector3(-CubeSize / 2 + p.GetPosX * CubeSize, 0,
+             -p.GetPosY * CubeSize);
     }
     public static void TranslatePart(GameObject[] partUnity, Part<SimpleCube> part)
     {
