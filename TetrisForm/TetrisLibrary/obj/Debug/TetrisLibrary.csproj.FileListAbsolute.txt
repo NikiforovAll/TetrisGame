@@ -1,0 +1,5 @@
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisLibrary\bin\Debug\TetrisLibrary.dll
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisLibrary\bin\Debug\TetrisLibrary.pdb
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisLibrary\obj\Debug\TetrisLibrary.csprojResolveAssemblyReference.cache
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisLibrary\obj\Debug\TetrisLibrary.dll
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisLibrary\obj\Debug\TetrisLibrary.pdb

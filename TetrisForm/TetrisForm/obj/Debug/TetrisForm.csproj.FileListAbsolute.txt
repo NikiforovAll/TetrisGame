@@ -1,0 +1,28 @@
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisForm\bin\Debug\TetrisForm.exe.config
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisForm\bin\Debug\TetrisForm.exe
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisForm\bin\Debug\TetrisForm.pdb
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisForm\obj\Debug\TetrisForm.csprojResolveAssemblyReference.cache
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisForm\obj\Debug\TetrisForm.Form1.resources
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisForm\obj\Debug\TetrisForm.Properties.Resources.resources
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisForm\obj\Debug\TetrisForm.csproj.GenerateResource.Cache
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisForm\obj\Debug\TetrisForm.exe
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisForm\obj\Debug\TetrisForm.pdb
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisForm\bin\Debug\TetrisLibrary.dll
+C:\С#\2курс\TetrisCoursework\TetrisLibrary\TetrisForm\bin\Debug\TetrisLibrary.pdb
+C:\C#\course2\_Tetris (2)\TetrisLibrary\TetrisForm\bin\Debug\TetrisForm.exe.config
+C:\C#\course2\_Tetris (2)\TetrisLibrary\TetrisForm\obj\Debug\TetrisForm.exe
+C:\C#\course2\_Tetris (2)\TetrisLibrary\TetrisForm\obj\Debug\TetrisForm.pdb
+C:\C#\course2\_Tetris (2)\TetrisForms\TetrisForm\bin\Debug\TetrisForm.exe.config
+C:\C#\course2\_Tetris (2)\TetrisForms\TetrisForm\obj\Debug\TetrisForm.exe
+C:\C#\course2\_Tetris (2)\TetrisForms\TetrisForm\obj\Debug\TetrisForm.pdb
+C:\C#\course2\_Tetris (2)\TetrisForms\TetrisForm\bin\Debug\TetrisForm.exe
+C:\C#\course2\_Tetris (2)\TetrisForms\TetrisForm\bin\Debug\TetrisForm.pdb
+C:\C#\course2\_Tetris (2)\TetrisForms\TetrisForm\bin\Debug\TetrisLibrary.dll
+C:\C#\course2\_Tetris (2)\TetrisForms\TetrisForm\bin\Debug\TetrisLibrary.pdb
+C:\C#\course2\_Tetris (2)\TetrisForms\TetrisForm\obj\Debug\TetrisForm.csprojResolveAssemblyReference.cache
+C:\C#\course2\_Tetris (2)\TetrisForms\TetrisForm\obj\Debug\TetrisForm.Form1.resources
+C:\C#\course2\_Tetris (2)\TetrisForms\TetrisForm\obj\Debug\TetrisForm.Properties.Resources.resources
+C:\C#\course2\_Tetris (2)\TetrisForms\TetrisForm\obj\Debug\TetrisForm.csproj.GenerateResource.Cache
+C:\C#\course2\_TetrisCourseWork\TetrisForms\TetrisForm\bin\Debug\TetrisForm.exe.config
+C:\C#\course2\_TetrisCourseWork\TetrisForms\TetrisForm\obj\Debug\TetrisForm.exe
+C:\C#\course2\_TetrisCourseWork\TetrisForms\TetrisForm\obj\Debug\TetrisForm.pdb
